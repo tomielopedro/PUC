@@ -1,0 +1,2 @@
+Link do repósitório no github onde se encontra a resolução:
+https://github.com/tomielopedro/PUC/blob/main/Cadeiras/InteligenciaArtificial/Atividade_Aula_2/analise_aula2.ipynb
